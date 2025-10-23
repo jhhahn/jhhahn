@@ -1,5 +1,5 @@
 @@ -1,36 +1,41 @@
-# Hello 👋, I'm Su-gyoung Lee
+# Hello 👋, I'm JAY
 
 ### 🌐 Links
 - [📝 **Blog**](https://velog.io/@tnrud4685) 
